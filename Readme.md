@@ -29,6 +29,11 @@ Enjoy!
 
 ## 🌯 Example
 
+My Typecho-Theme: Mix uses this css.
+
+Here is My Theme: https://mix.iucky.cn
+
+
 ```html
 <div class="Scode-Black">Here is Scode-Black, Maybe used in ?</div>
 <div class="Scode-Blue">Here is Scode-Blue, Maybe used in ?</div>
