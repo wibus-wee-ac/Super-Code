@@ -1,7 +1,17 @@
 .Shadow{
     box-shadow:2px 5px 12px #3B2E32;
 }
-
+.Scode-Yellow{
+    font-weight: bold;
+    background-color: #f6f6f6;
+    margin: 20px 0;
+    border-bottom: 0px solid yellow;
+    padding: 5px 12px;
+    border-left: 5px solid yellow;
+    margin: 12px 0px;
+    border-radius: 0rem;
+    line-height: 3; 
+}
 .Scode-Black{
     box-sizing: inherit; 
     border-radius: 8px; 

@@ -36,6 +36,7 @@ Here is My Theme: https://mix.iucky.cn
 
 ```html
 <div class="Scode-Black">Here is Scode-Black, Maybe used in ?</div>
+<div class="Scode-Yellow">Here is Scode-Yellow, Maybe used in ?</div>
 <div class="Scode-Blue">Here is Scode-Blue, Maybe used in ?</div>
 <div class="Scode-Red">Here is Scode-Red, Maybe used in ?</div>
 <div class="Scode-Pink">Here is Scode-Pink, Maybe used in ?</div>
