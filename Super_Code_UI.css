@@ -97,7 +97,7 @@
     line-height: 3; 
 }
 
-.Scode-mhz,.Scode-xgh,.Scode-tkzj,.Scode-xyz,.Scode-gll ,.Scode-xty,.Scode-yyz,.Scode-szh,.Scode-wbk{
+.Scode-mhz,.Scode-xgh,.Scode-tkzc,.Scode-xyz,.Scode-gll ,.Scode-xty,.Scode-yyz,.Scode-szh,.Scode-wbk{
 
 	border-radius: 8px;
 }
@@ -126,7 +126,7 @@
     background-image: -webkit-linear-gradient(220deg,#ff9a8b7a 0%,#ff6a88ab 55%,#ff99ac82 100%);
 }
 /*华为P30 天空之境*/
-.Scode-tkzj {
+.Scode-tkzc {
     color: #555555;
     overflow: hidden;
     margin: 10px 0;
